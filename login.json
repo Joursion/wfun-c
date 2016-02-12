@@ -1,0 +1,27 @@
+Remote Address:61.155.222.146:80
+Request URL:http://bbs.wfun.com/member.php?mod=logging&action=login&loginsubmit=yes&loginhash=LA471&inajax=1
+Request Method:POST
+Status Code:200 OK
+
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Encoding:gzip, deflate
+Accept-Language:en,zh-CN;q=0.8,zh;q=0.6
+Cache-Control:max-age=0
+Connection:keep-alive
+Content-Length:126
+Content-Type:application/x-www-form-urlencoded
+Cookie:__cfduid=deb81c718c5b04069849c1bd4d634db281454636293; __jsluid=3c003f0157168a3f5d5df7da87bf7d4f; PHPSESSID=0o3b0g4nduhfjiago4lp39pqq2ml4mao; _jkb_9208=1; zMYP_7b76_saltkey=uadVIJ5D; zMYP_7b76_lastvisit=1454726105; zMYP_7b76_sendmail=1; zMYP_7b76_lastact=1454729713%09member.php%09logging; zMYP_7b76_sid=yggPRr; Hm_lvt_7186fb251fb61836db21af858694d15f=1454728570,1454728882,1454729662,1454729714; Hm_lpvt_7186fb251fb61836db21af858694d15f=1454729714
+Host:bbs.wfun.com
+Origin:http://bbs.wfun.com
+Referer:http://bbs.wfun.com/member.php?mod=logging&action=login
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.85 Safari/537.36
+
+
+formhash:75b1c89b
+referer:http://www.wfun.com/
+username:zjwyy
+password:wfun123
+questionid:0
+answer:
+cookietime:2592000
